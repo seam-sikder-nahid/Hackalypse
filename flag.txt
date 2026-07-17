@@ -1,0 +1,4 @@
+hackalypse{
+  flag: "SMUCT-CTF{W3lcome_To_Hackalypse}";
+  description: "Hackalypse is a competitive CTF team that plays to win across the full spectrum of cybersecurity — web exploitation, reverse engineering, cryptography, forensics, pwn, and OSINT. We're a crew of hackers who thrive on solving hard problems, sharing knowledge, and pushing each other to level up. From late-night challenge grinds to leaderboard climbs, Hackalypse is about the hunt, the teamwork, and the flags. Welcome to the team.";
+}
