@@ -1,0 +1,23 @@
+# GH0ST
+
+| Field | Value |
+| --- | --- |
+| **Category** | CRYPTOGRAPHY |
+| **Points** | 400 |
+| **Author** | [r4k1br053](https://www.facebook.com/share/1HPmuW4D4A/) |
+| **Tags** | _None_ |
+| **Flag Format** | `SMUCT-CTF{...}` |
+
+## Description
+
+**flag format: SMUCT-CTF{...}**
+
+## Connection Info
+
+```
+nc 119.148.13.171 6880
+```
+
+## Attachments
+
+_No downloadable attachments for this challenge._
